@@ -1,0 +1,6 @@
+﻿  AnimSin.cpp
+G:\scripts\Botvinkov\AnimSin\AnimSin\AnimSin.cpp(183,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\scripts\Botvinkov\AnimSin\AnimSin\AnimSin.cpp(183,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\scripts\Botvinkov\AnimSin\AnimSin\AnimSin.cpp(187,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\scripts\Botvinkov\AnimSin\AnimSin\AnimSin.cpp(187,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  AnimSin.vcxproj -> G:\scripts\Botvinkov\AnimSin\Debug\AnimSin.exe
